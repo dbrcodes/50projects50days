@@ -2,8 +2,8 @@
 
 This is the main repository for all of the projects in the course.
 
--   [Course Link](https://www.udemy.com/course/50-projects-50-days)
--   [Course Info Website](https://50projects50days.com)
+- [Course Link](https://www.udemy.com/course/50-projects-50-days)
+- [Course Info Website](https://50projects50days.com)
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -64,7 +64,7 @@ This is the main repository for all of the projects in the course.
 
 The MIT License
 
-Copyright (c) 2020-2021 Traversy Media https://traversymedia.com
+Copyright (c) 2020-2021 Traversy Media <https://traversymedia.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -83,4 +83,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
